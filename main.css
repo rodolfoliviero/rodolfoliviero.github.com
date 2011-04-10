@@ -1,0 +1,33 @@
+html, head, body, div, p, ul, li, a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    padding: 20px;
+    line-height: 1.0em;
+}
+
+p {
+    margin: 1.0em 0;
+}
+
+li {
+    line-height: 1.0em;
+    margin: 0 0 0.3em 2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+#greetings {
+    font-weight: bold;
+}
+
